@@ -33,7 +33,7 @@ p{
 }
 /* section */
 .colored-section{
-    background-color: #ff4c68;
+    background-color: #0278ae;
     color: #fff;
 }
 .white-section{
@@ -80,18 +80,18 @@ padding: 0 18px;
     padding: 4%;
 }
 .icon{
-    color: #ef8172;
+    color: #51adcf;
     margin-bottom: 1rem;
 }
 .icon:hover{
-    color: #ff4c68;
+    color: #0278ae;
 }
 .feature-title{
     font-size: 1.5rem;
 }
 /* testamonials */
 #testimonials{
-    background-color: #ef8172;
+    background-color: #51adcf;
 }
 .testimonial-img{
     width: 10%;
@@ -107,7 +107,7 @@ padding: 0 18px;
 }
 /* press */
 #press{
-    background-color: #ef8172;
+    background-color: #51adcf;
     padding-bottom: 3%;
 }
 .press-logo{
@@ -122,7 +122,7 @@ padding: 0 18px;
     padding: 3% 2%;
 }
 /* RESPONSIVE */
-@media (max-width: 1028px ){
+@media .container-fluid (max-width: 1028px ){
     #title{
         text-align: center;
     }
